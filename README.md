@@ -1,22 +1,4 @@
-SensorListeners (Solution Code)
-===============================
 
-SensorListeners gets data from the ambient light and proximity sensors, and 
-displays that data.  It demonstrates registering listeners for sensor data,
-and handling changes to that data in the onSensorChanged() method.  
-
-Pre-requisites
---------------
-
-For this app you should be familiar with:
-* Creating, building, and running apps in Android Studio.
-* Running and testing apps with the Android emulator.
-* Gaining access to the sensor manager.  
-
-Getting Started
----------------
-
-1. Download and open this sample in Android Studio.
 
 License
 -------
